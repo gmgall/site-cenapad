@@ -1,0 +1,60 @@
+---
+author: wordpress
+comments: false
+date: 2012-06-14 14:18:50+00:00
+layout: post
+slug: equipe
+title: Equipe
+wordpress_id: 35
+---
+**Responsável**:
+
+<table>
+<tbody><tr>
+<td>Carla Osthoff</td>
+<td>osthoff@lncc.br</td>
+</tr>
+</tbody></table>
+
+
+**Equipe de Pesquisa e Desenvolvimento em Computação de Alto Desempenho**:
+
+
+<table>
+<tbody><tr>
+<td>Carla Osthoff</td>
+<td>osthoff@lncc.br</td>
+</tr>
+<tr>
+<td>Douglas Augusto</td>
+<td>douglas@lncc.br</td>
+</tr>
+<tr>
+<td>Fabrício Gomes Vilasbôas</td>
+<td>fabricio@lncc.br</td>
+</tr>
+<tr>
+<td>Frederico Cabral</td>
+<td>fcabral@lncc.br</td>
+</tr>
+<tr>
+<td>Guilherme Gall</td>
+<td>gmgall@lncc.br</td>
+</tr>
+<tr>
+<td>Luiz Manoel Rocha Gadelha</td>
+<td>lgadelha@lncc.br</td>
+</tr>
+<tr>
+<td>Mariano Silva</td>
+<td>marianos@lncc.br</td>
+</tr>
+<tr>
+<td>Rafael Nardes</td>
+<td>rafaelnm@lncc.br</td>
+</tr>
+<tr>
+<td>Roberto P. Souto</td>
+<td>rpsouto@lncc.br</td>
+</tr>
+</tbody></table>
