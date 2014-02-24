@@ -17,6 +17,21 @@ wordpress_id: 35
 </tbody></table>
 
 
+**Gerenciamento dos Sistemas de Computação de Alto Desempenho**:
+
+<table>
+<tbody>
+<tr>
+<td>André Ramos Carneiro</td>
+<td>andrerc@lncc.br</td>
+</tr>
+<tr>
+<td>Bruno Alves Fagundes</td>
+<td>brunoaf@lncc.br</td>
+</tr>
+</tbody></table>
+
+
 **Equipe de Pesquisa e Desenvolvimento em Computação de Alto Desempenho**:
 
 
