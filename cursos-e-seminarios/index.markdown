@@ -6,6 +6,10 @@ slug: cursos
 title: Cursos e Seminários
 ---
 
+**2014**
+
+* [Ambientes de computação de alto desempenho no LNCC](http://www.lncc.br/eventoSeminario/seminarioconsultar.php?vMenu=5&Idt_evento=1310&vAno=2014) ([Download dos slides](/slides/ambientes_hpc_lncc.pdf))
+
 **2013**
 --------
 
