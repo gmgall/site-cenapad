@@ -20,3 +20,6 @@ Cabral, F. L.; Osthoff, C.; Brandão, D.; Kischinhevsky, M.;
 *Implementação Híbrida MPI/OpenMP do Método HOPMOC na Resoluçãoo da Equação de Convecção-Difusão.*
 XXXV Congresso Nacional de Matemática Aplicada e Computacional, 2014.
 
+Gadelha Jr., L. M. R.; Guimarães, P.; Moura, A. M.; Drucker, D. P.; Dalcin, E.; Gall, G.; Tavares Jr., J.; Palazzi, D.; Poltosi, M.; Porto, F.; Moura, F.; Leo, W. V.;
+*SiBBr: Uma Infraestrutura para Coleta, Integração e Análise de Dados sobre a Biodiversidade Brasileira*
+VIII Brazilian e-Science Workshop no XXXIV Congresso da Sociedade Brasileira de Computação, 2014.
