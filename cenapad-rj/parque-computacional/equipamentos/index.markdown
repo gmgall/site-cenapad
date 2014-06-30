@@ -37,6 +37,12 @@ wordpress_id: 178
 <li>24 GB de memória</li>
 <li>4 placas NVIDIA Tesla C2050 (1792 cores)</li>
 </ul>
+<p>4 Nós de computação SGI C1104G com:</p>
+<ul>
+<li>2 processadores Intel Xeon 8-core E5-2660</li>
+<li>64 GB de memória</li>
+<li>1 placa NVIDIA Tesla K20</li>
+</ul>
 <p>1 Storage SGI IS5000 com 129TB brutos</p>
 <h2>Altix ICE 8400</h2>
 <p>25 nós de computação:</p>
