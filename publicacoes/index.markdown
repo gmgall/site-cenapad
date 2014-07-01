@@ -6,11 +6,13 @@ slug: Publicações
 title: Publicações
 ---
 
-**Publicações aceitas**
+**Trabalhos publicados**
 
-Cabral, F. L.; Osthoff, C.; Nardes, R.; Nascimento, D.;
-*Massive Parallelism With GPUs For Centrality Ranking In Complex Networks.*
-International Journal of Computer Science and Information Technology (Print), 2014.
+Cabral, F.L.; Osthoff, C.; Nardes, R.; Nascimento, D.;
+*Massive parallelism with GPUS for centrality ranking in complex networks.*
+International Journal of Computer Science and Information Technology (AIRCC-IJCSIT), 6(3):21–37, 2014.
+
+**Publicações aceitas**
 
 Cabral, F. L.; Osthoff, C.; Brandão, D.; Kischinhevsky, M.;
 *Hybrid MPI/OpenMP/OpenACC implementations for the solution of convection-diffusion equations with the HOPMOC Method.*
