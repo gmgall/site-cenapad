@@ -24,7 +24,7 @@ html:
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
-serve:
+serve: html
 	$(JEKYLL) --server 4000
 
 ssh_upload: html
