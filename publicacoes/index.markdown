@@ -88,6 +88,14 @@ SCHEPKE, C., MAILLARD, N., Osthoff, C, DIAS, P. L. S., PANETTA, J.
 *Performance Evaluation of an Atmospheric Simulation Model on Multi-Core Environments*
 Latin American Conference on High Performance Computing (CLCAR 2010, 2010, Gramado-RS). Performance Evaluation of an Atmospheric Simulation Model on Multi-Core Environments 2010.
 
+MELO, M.S.; OSTHOFF, C.; SOUTO, R.P.
+*Estudo de desempenho de uma aplicação de bioinformática em um ambiente híbrido de processamento paralelo com tecnologia multicore e GPU*
+Jornada de Iniciação Tecnológica PIBITI/LNCC, Laboratório Nacional de Computação Científica, Petrópolis, Setembro de 2014.
+
+MELO, M.S.; SOUTO, R.P.; CASTRO, I.F.M.
+*Comparação de desempenho de rotinas de multiplicação de matrizes em arquiteturas multi-core e many-core*
+Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Janeiro de 2015. 
+
 **Publicações aceitas**
 
 Cabral, F. L.; Osthoff, C.; Brandão, D.; Kischinhevsky, M.;
