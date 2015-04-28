@@ -88,21 +88,6 @@ SCHEPKE, C., MAILLARD, N., Osthoff, C, DIAS, P. L. S., PANETTA, J.
 *Performance Evaluation of an Atmospheric Simulation Model on Multi-Core Environments*
 Latin American Conference on High Performance Computing (CLCAR 2010, 2010, Gramado-RS). Performance Evaluation of an Atmospheric Simulation Model on Multi-Core Environments 2010.
 
-MELO, M.S.; OSTHOFF, C.; SOUTO, R.P.
-*Estudo de desempenho de uma aplicação de bioinformática em um ambiente híbrido de processamento paralelo com tecnologia multicore e GPU*
-Jornada de Iniciação Tecnológica PIBITI/LNCC, Laboratório Nacional de Computação Científica, Petrópolis, Setembro de 2014.
-
-MELO, M.S.; SOUTO, R.P.; CASTRO, I.F.M.
-*Comparação de desempenho de rotinas de multiplicação de matrizes em arquiteturas multi-core e many-core*
-Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Janeiro de 2015. 
-
-Cabral, L.C.; OSTHOFF, C.; Silva, D.; Moreira, R.N.
-*MDACCER: A local strategy for assessment of complex networks on GPUs*
-Nvidia GPU Technology Conference 2015, Março de 2015.
-
-Silva, D.; OSTHOFF, C.; Cabral, L.F.
-*Avaliação de Desempenho dos Algoritmos para Manipulação de Grafos em Ambientes Paralelos Híbridos CPU/GPU*
-Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Setembro de 2014.
 
 **Publicações aceitas**
 
@@ -117,3 +102,22 @@ XXXV Congresso Nacional de Matemática Aplicada e Computacional, 2014.
 Gadelha Jr., L. M. R.; Guimarães, P.; Moura, A. M.; Drucker, D. P.; Dalcin, E.; Gall, G.; Tavares Jr., J.; Palazzi, D.; Poltosi, M.; Porto, F.; Moura, F.; Leo, W. V.;
 *SiBBr: Uma Infraestrutura para Coleta, Integração e Análise de Dados sobre a Biodiversidade Brasileira.*
 VIII Brazilian e-Science Workshop no XXXIV Congresso da Sociedade Brasileira de Computação, 2014.
+
+
+**Pôsteres**
+
+MELO, M.S.; OSTHOFF, C.; SOUTO, R.P.
+*Estudo de desempenho de uma aplicação de bioinformática em um ambiente híbrido de processamento paralelo com tecnologia multicore e GPU.*
+Jornada de Iniciação Tecnológica PIBITI/LNCC, Laboratório Nacional de Computação Científica, Petrópolis, Setembro de 2014.
+
+MELO, M.S.; SOUTO, R.P.; CASTRO, I.F.M.
+*Comparação de desempenho de rotinas de multiplicação de matrizes em arquiteturas multi-core e many-core.*
+Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Janeiro de 2015. 
+
+Cabral, L.C.; OSTHOFF, C.; Silva, D.; Moreira, R.N.
+*MDACCER: A local strategy for assessment of complex networks on GPUs.*
+Nvidia GPU Technology Conference 2015, Março de 2015.
+
+Silva, D.; OSTHOFF, C.; Cabral, L.F.
+*Avaliação de Desempenho dos Algoritmos para Manipulação de Grafos em Ambientes Paralelos Híbridos CPU/GPU.*
+Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Setembro de 2014.
