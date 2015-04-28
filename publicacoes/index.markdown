@@ -96,6 +96,14 @@ MELO, M.S.; SOUTO, R.P.; CASTRO, I.F.M.
 *Comparação de desempenho de rotinas de multiplicação de matrizes em arquiteturas multi-core e many-core*
 Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Janeiro de 2015. 
 
+Cabral, L.C.; OSTHOFF, C.; Silva, D.; Moreira, R.N.
+*MDACCER: A local strategy for assessment of complex networks on GPUs*
+Nvidia GPU Technology Conference 2015, Março de 2015.
+
+Silva, D.; OSTHOFF, C.; Cabral, L.F.
+*Avaliação de Desempenho dos Algoritmos para Manipulação de Grafos em Ambientes Paralelos Híbridos CPU/GPU*
+Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Setembro de 2014.
+
 **Publicações aceitas**
 
 Cabral, F. L.; Osthoff, C.; Brandão, D.; Kischinhevsky, M.;
