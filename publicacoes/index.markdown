@@ -121,3 +121,7 @@ Nvidia GPU Technology Conference 2015, Março de 2015.
 Silva, D.; OSTHOFF, C.; Cabral, L.F.
 *Avaliação de Desempenho dos Algoritmos para Manipulação de Grafos em Ambientes Paralelos Híbridos CPU/GPU.*
 Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Setembro de 2014.
+
+VALENTE, M.C.; OSTHOFF, C.; Vliasboas, F.
+*Estudo de uma versão paralela do processo de clusterização aplicado a montagem e alinhamento de genomas.*
+Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Janeiro de 2015. 
