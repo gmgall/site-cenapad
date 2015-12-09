@@ -8,6 +8,30 @@ title: Publicações
 
 **Trabalhos publicados**
 
+Cabral, F.L.; Osthoff, C.; Brandão, D.; Kischinhevsky, M.
+*Fine-Tuning Xeon architecture Vectorization and Parallelization of a Numerical Method for convection-diffusion equations.*
+Latin America High Performance Computing Conference - Petrópolis - Brasil - 24 a 26 de Agosto de 2015.
+
+Cabral, F.L.; Osthoff, C.; Ramos, D.; Nardes, R.
+*MDACCER: Modified Distributed Assessment of the Closeness CEntrality Ranking in Complex Networks for Massively Parallel Environments.*
+6th Workshop on Applications for Multi-Core Architectures (SBAC-PAD 2015) - Florianópolis - Brasil - 18 a 21 de Outubro de 2015.
+
+Stanislau, R.L.; Osthoff, C.; da Silva, M.P.
+*Avaliação de um problema fortemente acoplado nas arquiteturas Intel Core i7 e Intel Xeon com e sem HyperThreading e na Intel Xeon Phi.*
+I Escola Regional de Alto Desempenho do Rio de Janeiro - Petrópolis - Rio de Janeiro - Brasil - 24 a 26 de Agosto de 2015.
+
+Coelho, M.; Osthoff, C.; Vilasbôas, F.
+*Estudo de uma versão paralela do processo de clusterizacão aplicado a montagem e comparação de genomas.*
+I Escola Regional de Alto Desempenho do Rio de Janeiro - Petrópolis - Rio de Janeiro - Brasil - 24 a 26 de Agosto de 2015.
+
+Vilasbôas, F.; Osthoff, C.; Ocaña, K.; Trelles, O.; Vasconcelos, A.T.
+*A GPU-based algorithm to Calculate K-mers Frequencies.*
+X-Meeting 2015 - 11th International Conference of th AB3C + Brazilian Symposium of Bioinformatics - São Paulo - Brasil - 3 a 6 de Novembro de 2015.
+
+Vilasbôas, F.G.; Osthoff, C.; Trelles, O.; Vasconcelos, A.T.
+*Desenvolvimento de um algoritmo paralelo para contabilização da repetição de K-mers*
+3ª Conferência Ibero Americana de Computação Aplicada 2015 - Florianópolis - Santa Catarina - Brasil - 30 Novembro a 1 Dezembro de 2015.
+
 Cabral, F.L.; Osthoff, C.; Nardes, R.; Nascimento, D.;
 *Massive parallelism with GPUS for centrality ranking in complex networks.*
 International Journal of Computer Science and Information Technology (AIRCC-IJCSIT), 6(3):21–37, 2014.
