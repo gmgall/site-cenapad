@@ -8,13 +8,21 @@ title: Publicações
 
 **Trabalhos publicados**
 
-Cabral, F.L.; Osthoff, C.; Brandão, D.; Kischinhevsky, M.
-*Fine-Tuning Xeon architecture Vectorization and Parallelization of a Numerical Method for convection-diffusion equations.*
-Latin America High Performance Computing Conference - Petrópolis - Brasil - 24 a 26 de Agosto de 2015.
+Vilasbôas, F.G.; Osthoff, C.; Trelles, O.; Vasconcelos, A.T.
+*Desenvolvimento de um algoritmo paralelo para contabilização da repetição de K-mers*
+3ª Conferência Ibero Americana de Computação Aplicada 2015 - Florianópolis - Santa Catarina - Brasil - 30 Novembro a 1 Dezembro de 2015.
+
+Vilasbôas, F.; Osthoff, C.; Ocaña, K.; Trelles, O.; Vasconcelos, A.T.
+*A GPU-based algorithm to Calculate K-mers Frequencies.*
+X-Meeting 2015 - 11th International Conference of th AB3C + Brazilian Symposium of Bioinformatics - São Paulo - Brasil - 3 a 6 de Novembro de 2015.
 
 Cabral, F.L.; Osthoff, C.; Ramos, D.; Nardes, R.
 *MDACCER: Modified Distributed Assessment of the Closeness CEntrality Ranking in Complex Networks for Massively Parallel Environments.*
 6th Workshop on Applications for Multi-Core Architectures (SBAC-PAD 2015) - Florianópolis - Brasil - 18 a 21 de Outubro de 2015.
+
+Cabral, F.L.; Osthoff, C.; Brandão, D.; Kischinhevsky, M.
+*Fine-Tuning Xeon architecture Vectorization and Parallelization of a Numerical Method for convection-diffusion equations.*
+Latin America High Performance Computing Conference - Petrópolis - Brasil - 24 a 26 de Agosto de 2015.
 
 Stanislau, R.L.; Osthoff, C.; da Silva, M.P.
 *Avaliação de um problema fortemente acoplado nas arquiteturas Intel Core i7 e Intel Xeon com e sem HyperThreading e na Intel Xeon Phi.*
@@ -24,21 +32,37 @@ Coelho, M.; Osthoff, C.; Vilasbôas, F.
 *Estudo de uma versão paralela do processo de clusterizacão aplicado a montagem e comparação de genomas.*
 I Escola Regional de Alto Desempenho do Rio de Janeiro - Petrópolis - Rio de Janeiro - Brasil - 24 a 26 de Agosto de 2015.
 
-Vilasbôas, F.; Osthoff, C.; Ocaña, K.; Trelles, O.; Vasconcelos, A.T.
-*A GPU-based algorithm to Calculate K-mers Frequencies.*
-X-Meeting 2015 - 11th International Conference of th AB3C + Brazilian Symposium of Bioinformatics - São Paulo - Brasil - 3 a 6 de Novembro de 2015.
-
-Vilasbôas, F.G.; Osthoff, C.; Trelles, O.; Vasconcelos, A.T.
-*Desenvolvimento de um algoritmo paralelo para contabilização da repetição de K-mers*
-3ª Conferência Ibero Americana de Computação Aplicada 2015 - Florianópolis - Santa Catarina - Brasil - 30 Novembro a 1 Dezembro de 2015.
-
 Cabral, F.L.; Osthoff, C.; Nardes, R.; Nascimento, D.;
 *Massive parallelism with GPUS for centrality ranking in complex networks.*
 International Journal of Computer Science and Information Technology (AIRCC-IJCSIT), 6(3):21–37, 2014.
 
+CABRAL, F. L., KISCHINHEVSKY, M., BRANDAO, D., Osthoff, C
+*MPI/OpenMP/OpenACC implementations for the solution of convection-diffusion equations with the HOPMOC Method*
+The 14th International Conference on Computational Science and Its Applications 2014, 2014, Porto. The 14th International Conference on Computational Science and Its Applications (ICCSA 2014). Conference Publishing Services (CPS) IEEE Computer Society, 2014. 
+
+CABRAL, F. L., Osthoff, C, BRANDAO, D., KISCHINHEVSKY, M.
+*Implementação Híbrida MPI/OpenMP do Método HOPMOC na Resolução da Equação de Convecção-Difusão*
+XXXV Congresso Nacional de Matemática Aplicada e Computacional, 2014., 2014, Natal.
+
+Cabral, F. L.; Osthoff, C.; Brandão, D.; Kischinhevsky, M.;
+*Hybrid MPI/OpenMP/OpenACC implementations for the solution of convection-diffusion equations with the HOPMOC Method.*
+The 14th International Conference on Computational Science and Its Applications, 2014.
+
+Cabral, F. L.; Osthoff, C.; Brandão, D.; Kischinhevsky, M.;
+*Implementação Híbrida MPI/OpenMP do Método HOPMOC na Resolução da Equação de Convecção-Difusão.*
+XXXV Congresso Nacional de Matemática Aplicada e Computacional, 2014.
+
+Gadelha Jr., L. M. R.; Guimarães, P.; Moura, A. M.; Drucker, D. P.; Dalcin, E.; Gall, G.; Tavares Jr., J.; Palazzi, D.; Poltosi, M.; Porto, F.; Moura, F.; Leo, W. V.;
+*SiBBr: Uma Infraestrutura para Coleta, Integração e Análise de Dados sobre a Biodiversidade Brasileira.*
+VIII Brazilian e-Science Workshop no XXXIV Congresso da Sociedade Brasileira de Computação, 2014.
+
 PINTO, R. S., Osthoff, C, AUGUSTO, D., TRELLES, O., VASCONCELOS, A. T.
 *Performance Evaluation of Quicksort with GPU Dynamic  Parallelism for Gene-Expression Quantile Normalization.*
 Journal of Communication and Computer. , v.10, p.1522 - 1528, 2013.
+
+PINTO, R. S., Osthoff, C, VASCONCELOS, A. T., AUGUSTO, D., DIAS, P. L. S., RODRIGUEZ, A., TRELLES, O.
+*Applying GPU Dynamic Parallelism to High-Performance Normalization of Gene Expressions*
+15th International Simposium on Computer Architecture and High Performance Computing/ 4th Workshop on Applications for Multi-Core Architectures/ WAMCA, 2013, Porto de Galinhas.
 
 Osthoff, C, SCHEPKE, C., PANETTA, J., PILLA, L., MAILLARD, N., GRUNMAN, P., DIAS, P. L. S., WALKO, R., KASSICK, R., BOITO, F.
 *Atmospheric models hybrid OpenMP/MPI implementation multicore cluster evaluation.*
@@ -48,13 +72,21 @@ Osthoff, C, PINTO, R. S., Vliasboas F., GRUNMAN, P., DIAS, P. L. S., BOITO, F., 
 *IMPROVING ATMOSPHERIC MODEL PERFORMANCE ON A MULTI-CORE CLUSTER SYSTEM*
 In: Atmospheric Models.1 ed.Rijeka : Open Access publisher of Scientific Books and Journals- Intech, 2012, v.1, p. 1-24.
 
-CABRAL, F. L., Osthoff, C, BRANDAO, D., KISCHINHEVSKY, M.
-*Implementação Híbrida MPI/OpenMP do Método HOPMOC na Resolução da Equação de Convecção-Difusão*
-XXXV Congresso Nacional de Matemática Aplicada e Computacional, 2014., 2014, Natal.
+Osthoff, C, PINTO, R. S., Vliasboas F., NAVAUX, P., LOPES, P. P., PANETTA, J.
+*Global atmospheric model performance case studies in multicore and manycore platform*
+10th World Congress on Computational Mechanics (WCCM 2012), 2012, São Paulo. Computational Mechanics Proceedings 2012. São Paulo: P.M. Pimenta E.M.B Campello Editors, 2012.
 
-PINTO, R. S., Osthoff, C, VASCONCELOS, A. T., AUGUSTO, D., DIAS, P. L. S., RODRIGUEZ, A., TRELLES, O.
-*Applying GPU Dynamic Parallelism to High-Performance Normalization of Gene Expressions*
-15th International Simposium on Computer Architecture and High Performance Computing/ 4th Workshop on Applications for Multi-Core Architectures/ WAMCA, 2013, Porto de Galinhas.
+PINTO, R. S., Osthoff, C, Vliasboas F., DIAS, P. L. S.
+*Hybrid Cluster Programming Models Evaluation for Atmospheric Simulation Model Application*
+5th LNCC Meeting on Computational Modeling, 2012, Petrópolis. 5th LNCC Meeting on Computational Modeling. Pedrópolis: Laboratório Nacional de Computação Científica, 2012.
+
+Osthoff, C, PINTO, R. S., DIAS, P. L. S., PANETTA, J., LOPES, P. P.
+*Atmospheric Model Cluster Performance Evaluation on Hybrid MPI/OpenMP/Cuda Programming Model Platform*
+XXXI International Conference of the Chilean Computer Science Society (SCCC'2012), 2012, Valparaíso - Chile. The Jornadas Chilenas de Computación (JCC). IEEE Computer Society, 2012. v.1. p.216 - 222
+
+PINTO, R. S., Osthoff, C, Vliasboas F., DIAS, P. L. S.
+*Programming Models case studies on Atmospheric Model Application*
+GPU Computing Developer Forum (CSBC 2012), 2012, Curutiba. Anais do XXXII Congresso da Sociedade Brasileira de Computação. Sociedade Brasileira de Computação, 2012.
 
 BOITO, F., KASSICK, R., PILLA, L., NAVAUX, P., SCHEPKE, C., MAILLARD, N., Osthoff, C, GRUNMAN, P., DIAS, P. L. S., PANETTA, J.
 *Avaliação de desempenho do OLAM com o PVFS2*
@@ -88,41 +120,9 @@ Osthoff, C, SCHEPKE, C., PANETTA, J., GRUNMAN, P., MAILLARD, N., NAVAUX, P., DIA
 *I/O Performance Evaluation on Multicore Clusters with Atmospheric Model Environment*
 SBAC-PAD 2010, 2010, Petrópolis. 22nd International Symposium on Computer Architecture and High Performance computing. IEEE Computer Society, 2010. v.WAMMCA.
 
-Osthoff, C, PINTO, R. S., Vliasboas F., NAVAUX, P., LOPES, P. P., PANETTA, J.
-*Global atmospheric model performance case studies in multicore and manycore platform*
-10th World Congress on Computational Mechanics (WCCM 2012), 2012, São Paulo. Computational Mechanics Proceedings 2012. São Paulo: P.M. Pimenta E.M.B Campello Editors, 2012.
-
-PINTO, R. S., Osthoff, C, Vliasboas F., DIAS, P. L. S.
-*Hybrid Cluster Programming Models Evaluation for Atmospheric Simulation Model Application*
-5th LNCC Meeting on Computational Modeling, 2012, Petrópolis. 5th LNCC Meeting on Computational Modeling. Pedrópolis: Laboratório Nacional de Computação Científica, 2012.
-
-CABRAL, F. L., KISCHINHEVSKY, M., BRANDAO, D., Osthoff, C
-*MPI/OpenMP/OpenACC implementations for the solution of convection-diffusion equations with the HOPMOC Method*
-The 14th International Conference on Computational Science and Its Applications 2014, 2014, Porto. The 14th International Conference on Computational Science and Its Applications (ICCSA 2014). Conference Publishing Services (CPS) IEEE Computer Society, 2014. 
-
-Osthoff, C, PINTO, R. S., DIAS, P. L. S., PANETTA, J., LOPES, P. P.
-*Atmospheric Model Cluster Performance Evaluation on Hybrid MPI/OpenMP/Cuda Programming Model Platform*
-XXXI International Conference of the Chilean Computer Science Society (SCCC'2012), 2012, Valparaíso - Chile. The Jornadas Chilenas de Computación (JCC). IEEE Computer Society, 2012. v.1. p.216 - 222
-
-PINTO, R. S., Osthoff, C, Vliasboas F., DIAS, P. L. S.
-*Programming Models case studies on Atmospheric Model Application*
-GPU Computing Developer Forum (CSBC 2012), 2012, Curutiba. Anais do XXXII Congresso da Sociedade Brasileira de Computação. Sociedade Brasileira de Computação, 2012. 
-
 SCHEPKE, C., MAILLARD, N., Osthoff, C, DIAS, P. L. S., PANETTA, J.
 *Performance Evaluation of an Atmospheric Simulation Model on Multi-Core Environments*
 Latin American Conference on High Performance Computing (CLCAR 2010, 2010, Gramado-RS). Performance Evaluation of an Atmospheric Simulation Model on Multi-Core Environments 2010.
-
-Cabral, F. L.; Osthoff, C.; Brandão, D.; Kischinhevsky, M.;
-*Hybrid MPI/OpenMP/OpenACC implementations for the solution of convection-diffusion equations with the HOPMOC Method.*
-The 14th International Conference on Computational Science and Its Applications, 2014.
-
-Cabral, F. L.; Osthoff, C.; Brandão, D.; Kischinhevsky, M.;
-*Implementação Híbrida MPI/OpenMP do Método HOPMOC na Resolução da Equação de Convecção-Difusão.*
-XXXV Congresso Nacional de Matemática Aplicada e Computacional, 2014.
-
-Gadelha Jr., L. M. R.; Guimarães, P.; Moura, A. M.; Drucker, D. P.; Dalcin, E.; Gall, G.; Tavares Jr., J.; Palazzi, D.; Poltosi, M.; Porto, F.; Moura, F.; Leo, W. V.;
-*SiBBr: Uma Infraestrutura para Coleta, Integração e Análise de Dados sobre a Biodiversidade Brasileira.*
-VIII Brazilian e-Science Workshop no XXXIV Congresso da Sociedade Brasileira de Computação, 2014.
 
 **Pôsteres**
 
