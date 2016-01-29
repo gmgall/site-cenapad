@@ -6,8 +6,21 @@ slug: cursos
 title: Cursos e Seminários
 ---
 
-**2014**
+**2016**
+--------
 
+* [Semana sobre Programação Massivamente Paralela](http://www.lncc.br/eventoSeminario/eventoconsultar.php?vMenu=5&idt_evento=1514&vAno=2016)
+
+**2015**
+--------
+
+* [Semana sobre Programação Massivamente Paralela](http://www.lncc.br/eventoSeminario/eventoconsultar.php?vMenu=5&idt_evento=1381&vAno=2015)
+* [ERAD-RJ - I Escola Regional de Alto Desempenho do Rio de Janeiro](http://eradrj2015.lncc.br/)
+
+**2014**
+--------
+
+* [Semana sobre Programação Massivamente Paralela](http://www.lncc.br/eventoSeminario/eventoconsultar.php?vMenu=5&idt_evento=1260&vAno=2014)
 * [Ambientes de computação de alto desempenho no LNCC](http://www.lncc.br/eventoSeminario/seminarioconsultar.php?vMenu=5&Idt_evento=1310&vAno=2014) ([Download dos slides](/slides/ambientes_hpc_lncc.pdf))
 
 **2013**
