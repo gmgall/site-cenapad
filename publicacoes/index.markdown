@@ -8,6 +8,18 @@ title: Publicações
 
 **Trabalhos publicados**
 
+Cabral, F.; Osthoff, C.; Borges, M.R.
+*Fine-Tuning Optimization for a Numerical Method for Hyperbolic Equations Applied to a Porous Media Flow Problem with Intel® Tools*
+[Artigo disponível para leitura no Intel Developer Zone] (https://software.intel.com/en-us/articles/fine-tuning-optimization-for-a-numerical-method-for-hyperbolic-equations)
+
+N.R. da Silva D.;  Wehmuth K.; Osthoff C.;  Appel A.P.;  Ziviani A.
+*Análise de Desempenho de Plataformas de Processamento de Grafos*
+31° Simpósio Brasileiro de Banco de Dados, SBBD2016, Salvador, Bahia - Brasil, de 04 a 07 de outubro de 2016.
+
+Vilasbôas, F.G.; Osthoff, C. ; O. Trelles ; OCAÑA, K.A.C.S. ; Vasconcelos , A.T.R.
+*Otimização de um algoritmo paralelo para contabilização da repetição de k-mers.*
+2ª Escola Regional de Alto Desempenho do Rio de Janeiro, 2016, Rio de Janeiro.
+
 Vilasbôas, F.G.; Osthoff, C.; Trelles, O.; Vasconcelos, A.T.
 *Desenvolvimento de um algoritmo paralelo para contabilização da repetição de K-mers*
 3ª Conferência Ibero Americana de Computação Aplicada 2015 - Florianópolis - Santa Catarina - Brasil - 30 Novembro a 1 Dezembro de 2015.
