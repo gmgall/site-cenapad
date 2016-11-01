@@ -136,7 +136,29 @@ SCHEPKE, C., MAILLARD, N., Osthoff, C, DIAS, P. L. S., PANETTA, J.
 *Performance Evaluation of an Atmospheric Simulation Model on Multi-Core Environments*
 Latin American Conference on High Performance Computing (CLCAR 2010, 2010, Gramado-RS). Performance Evaluation of an Atmospheric Simulation Model on Multi-Core Environments 2010.
 
+**Fórum de Iniciação Científica com resumo expandido**
+
+Melo, M.S.; Souto, R.P.
+*Paralelização do esquema de radiação na atmosfera em modelo numérico de previsão de tempo.*
+Escola Regional de Alto Desempenho do Rio de Janeiro, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, Julho de 2016.
+
+Melo, M.S.; Souto, R.P.; Castro, I.F.M.
+*Comparação de desempenho de rotinas de multiplicação de matrizes em arquiteturas multi-core e many-core.*
+Escola Regional de Alto Desempenho do Rio de Janeiro, Laboratório Nacional de Computação Científica, Petrópolis, Agosto de 2015.
+
 **Pôsteres**
+
+Melo, M.S.; Souto, R.P.
+*Otimização computacional do esquema de radiação na atmosfera em modelo numérico de previsão de tempo e clima.*
+Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Outubro de 2016.
+
+Melo, M.S.; Souto, R.P.
+*Estudo sobre paralelização de código da radiação implementada no modelo BRAMS.*
+Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Janeiro de 2016.
+
+Melo, M.S.; Souto, R.P.; Castro, I.F.M.
+*Comparação de desempenho de rotinas de multiplicação de matrizes em arquiteturas multi-core e many-core.*
+Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Setembro de 2015.
 
 Cabral, L.C.; OSTHOFF, C.; Silva, D.; Moreira, R.N.
 *MDACCER: A local strategy for assessment of complex networks on GPUs.*
@@ -148,7 +170,7 @@ Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Comp
 
 MELO, M.S.; SOUTO, R.P.; CASTRO, I.F.M.
 *Comparação de desempenho de rotinas de multiplicação de matrizes em arquiteturas multi-core e many-core.*
-Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Janeiro de 2015. 
+Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Janeiro de 2015.
 
 MELO, M.S.; OSTHOFF, C.; SOUTO, R.P.
 *Estudo de desempenho de uma aplicação de bioinformática em um ambiente híbrido de processamento paralelo com tecnologia multicore e GPU.*
