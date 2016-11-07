@@ -16,6 +16,10 @@ N.R. da Silva D.;  Wehmuth K.; Osthoff C.;  Appel A.P.;  Ziviani A.
 *Análise de Desempenho de Plataformas de Processamento de Grafos*
 31° Simpósio Brasileiro de Banco de Dados, SBBD2016, Salvador, Bahia - Brasil, de 04 a 07 de outubro de 2016.
 
+Coelho, M.; Osthoff, C.; Vilasbôas, F.
+*Desenvolvimento de uma versão paralela híbrida para a contabilização da frequência de repetição de k-mers.*
+Escola Regional de Alto Desempenho do Rio de Janeiro, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, Julho de 2016.
+
 Vilasbôas, F.G.; Osthoff, C. ; O. Trelles ; OCAÑA, K.A.C.S. ; Vasconcelos , A.T.R.
 *Otimização de um algoritmo paralelo para contabilização da repetição de k-mers.*
 2ª Escola Regional de Alto Desempenho do Rio de Janeiro, 2016, Rio de Janeiro.
@@ -148,9 +152,17 @@ Escola Regional de Alto Desempenho do Rio de Janeiro, Laboratório Nacional de C
 
 **Pôsteres**
 
+Coelho, M.; Osthoff, C.; Vilasbôas, F.
+*Desenvolvimento de uma versão paralela híbrida para contabilização da frequência de repetição de k-mers.*
+Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Outubro de 2016.
+
 Melo, M.S.; Souto, R.P.
 *Otimização computacional do esquema de radiação na atmosfera em modelo numérico de previsão de tempo e clima.*
 Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Outubro de 2016.
+
+Coelho, M.; Osthoff, C.; Vilasbôas, F.
+*Estudo de uma versão paralela em arquitetura manycore do processo de classificação de metagenomas.*
+Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Setembro de 2015.
 
 Melo, M.S.; Souto, R.P.
 *Estudo sobre paralelização de código da radiação implementada no modelo BRAMS.*
