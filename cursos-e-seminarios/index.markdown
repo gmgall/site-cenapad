@@ -6,6 +6,11 @@ slug: cursos
 title: Cursos e Seminários
 ---
 
+**2017**
+--------
+
+* [Semana sobre Programação Massivamente Paralela](http://www.lncc.br/eventoSeminario/eventoconsultar.php?vMenu=5&idt_evento=1615&vAno=2016)
+
 **2016**
 --------
 
