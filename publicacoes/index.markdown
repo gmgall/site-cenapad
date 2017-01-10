@@ -8,6 +8,18 @@ title: Publicações
 
 **Trabalhos publicados**
 
+Silva, M. P.; Osthoff, C.; Dias, P. L. da S.; Souto, R. P.
+*Changes in the linear system equations solver to optimize the Ocean–Land–Atmosphere Model*
+4th Conference on Computational Interdisciplinary Sciences - CCIS2016, Novembro de 2016.
+
+Silva, M. P.; Dias, P. L. da S.; Osthoff, C.; Souto, R. P.
+*Ajuste do intervalo de tempo para integraçao do modelo OLAM com grade de resolução variável*
+XXXVI Congresso Nacional de Matemática Aplicada e Computacional - CNMAC2016, Setembro de 2016.
+
+Silva, M. P.; Dias, P. L. da S.; Osthoff, C.; Souto, R. P.
+*Prevendo o desempenho do OLAM no supercomputador Santos Dumont*
+XXXVI Congresso Nacional de Matemática Aplicada e Computacional - CNMAC2016, Setembro de 2016.
+
 Cabral, F.; Osthoff, C.; Borges, M.R.
 *Fine-Tuning Optimization for a Numerical Method for Hyperbolic Equations Applied to a Porous Media Flow Problem with Intel® Tools*
 [Artigo disponível para leitura no Intel Developer Zone] (https://software.intel.com/en-us/articles/fine-tuning-optimization-for-a-numerical-method-for-hyperbolic-equations)
