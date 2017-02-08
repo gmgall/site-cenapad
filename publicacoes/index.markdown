@@ -12,6 +12,11 @@ Silva, M. P.; Osthoff, C.; Dias, P. L. da S.; Souto, R. P.
 *Changes in the linear system equations solver to optimize the Ocean–Land–Atmosphere Model*
 4th Conference on Computational Interdisciplinary Sciences - CCIS2016, Novembro de 2016.
 
+Mondelli, M.; Tonelli, M.; Ocaña, K.; Vasconcelos, A.; Gadelha, L.
+*HPSW-Prof: A Provenance-Based Framework for Profiling High Performance Scientific Workflows*
+Demonstration Track, Proc. of Satellite Events of the 31st Brazilian Symposium on Databases (SBBD 2016), Outubro de 2016.
+[PDF](http://sbbd2016.fpc.ufba.br/sbbd2016/demos/PAPER2.pdf)
+
 Silva, M. P.; Dias, P. L. da S.; Osthoff, C.; Souto, R. P.
 *Ajuste do intervalo de tempo para integraçao do modelo OLAM com grade de resolução variável*
 XXXVI Congresso Nacional de Matemática Aplicada e Computacional - CNMAC2016, Setembro de 2016.
@@ -32,6 +37,11 @@ Coelho, M.; Osthoff, C.; Vilasbôas, F.
 *Desenvolvimento de uma versão paralela híbrida para a contabilização da frequência de repetição de k-mers.*
 Escola Regional de Alto Desempenho do Rio de Janeiro, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, Julho de 2016.
 
+Mondelli, M.; Galheigo, M.; Medeiros, V.; Bastos, B.; Gomes, A.; Mattoso, M.; Vasconcelos, A.; Gadelha, L.
+*Integrating Scientific Workflows with Scientific Gateways: A Bioinformatics Experiment in the Brazilian National High-Performance Computing Network.*
+X Brazilian e-Science Workshop. Anais do XXXVI Congresso da Sociedade Brasileira de Computação, Julho de 2016.
+[PDF](http://www.lncc.br/~lgadelha/publications/scientific_workflows_and_gateways-bresci2016.pdf)
+
 Vilasbôas, F.G.; Osthoff, C. ; O. Trelles ; OCAÑA, K.A.C.S. ; Vasconcelos , A.T.R.
 *Otimização de um algoritmo paralelo para contabilização da repetição de k-mers.*
 2ª Escola Regional de Alto Desempenho do Rio de Janeiro, 2016, Rio de Janeiro.
@@ -43,6 +53,11 @@ Vilasbôas, F.G.; Osthoff, C.; Trelles, O.; Vasconcelos, A.T.
 Vilasbôas, F.; Osthoff, C.; Ocaña, K.; Trelles, O.; Vasconcelos, A.T.
 *A GPU-based algorithm to Calculate K-mers Frequencies.*
 X-Meeting 2015 - 11th International Conference of th AB3C + Brazilian Symposium of Bioinformatics - São Paulo - Brasil - 3 a 6 de Novembro de 2015.
+
+Mondelli, M. L.; Torreño, O.; Ocaña, K. A. C. S.; Mattoso, M.; Wilde, M.; Vasconcellos, A. T.; Trelles, O.; Gadelha, L. M. R.
+*SwiftGECKO: a provenance-enabled parallel comparative genomics workflow.*
+In Proceedings X-Meeting 2015, Universidade de São Paulo, São Paulo, Novembro de 2015.
+[PDF](http://www.lncc.br/~lgadelha/publications/swiftgecko_abstract.pdf)
 
 Cabral, F.L.; Osthoff, C.; Ramos, D.; Nardes, R.
 *MDACCER: Modified Distributed Assessment of the Closeness CEntrality Ranking in Complex Networks for Massively Parallel Environments.*
@@ -179,6 +194,11 @@ Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Comp
 Melo, M.S.; Souto, R.P.
 *Estudo sobre paralelização de código da radiação implementada no modelo BRAMS.*
 Jornada de Iniciação Científica e Tecnológica, Laboratório Nacional de Computação Científica, Petrópolis, Janeiro de 2016.
+
+Mondelli, M. L.; Vilasbôas, F.; Ocaña, K.; Mattoso, M.; Vasconcelos, A. T.; Gadelha, L.
+*Provenance-based Profiling of Swift Parallel and Distributed Scientific Workflows.*
+In Proceedings X-Meeting 2015, Universidade de São Paulo, São Paulo, Novembro de 2015.
+[PDF](http://www.lncc.br/~lgadelha/publications/profiling_poster.pdf)
 
 Melo, M.S.; Souto, R.P.; Castro, I.F.M.
 *Comparação de desempenho de rotinas de multiplicação de matrizes em arquiteturas multi-core e many-core.*
