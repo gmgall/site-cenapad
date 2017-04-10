@@ -69,10 +69,10 @@ footer, header, hgroup, menu, nav, section {
 ----------------------------------------------- */
 
 body {
-	padding: 0 2em;
+	padding: 0 0em;
 }
 #page {
-	margin: 2em auto;
+	margin: 0em auto;
 	max-width: 1000px;
 }
 #branding hgroup {
@@ -2676,4 +2676,28 @@ p.comment-form-comment {
 }
 #ie7 section.recent-posts {
 	margin-right: 7.6%;
+}
+
+#footer-brasil {
+   background: none repeat scroll 0% 0% #0042b1;
+   padding: 1em 0px;
+   max-width: 100%;
+}
+
+.header-LNCC {
+	height: 110px;
+	font-size: 36px;
+	background-color: #3A72BC;
+	color: white;
+}
+
+.header-LNCC a {
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+}
+
+.header-LNCC p {
+	font-size: 14px;
+	padding: 10px;
 }
