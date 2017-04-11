@@ -3,7 +3,7 @@ author: gmgall
 date: 2015-12-10 14:56:13+00:00
 layout: post
 slug: inauguracao-sdumont
-title: LNCC inaugura o supercomputador Santos Dumont em Petrópols
+title: LNCC inaugura o supercomputador Santos Dumont em Petrópolis
 ---
 
 O Laboratório Nacional de Computação Científica (LNCC/MCTI) inaugura, no dia 14 de dezembro, em sua sede, em Petrópolis/RJ, o supercomputador Santos Dumont, considerado o maior em sua categoria na América Latina. Para a cerimônia de inauguração está prevista a presença de representantes do Ministério da Ciência, Tecnologia e Inovação (MCTI), do Governo do Estado do Rio de Janeiro, da Prefeitura de Petrópolis e outras autoridades.
