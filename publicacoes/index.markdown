@@ -169,6 +169,19 @@ Latin American Conference on High Performance Computing (CLCAR 2010, 2010, Grama
 
 **Fórum de Iniciação Científica com resumo expandido**
 
+
+Coelho, M.; Osthoff, C.; Vilasbôas, F.
+*Desenvolvimento de uma versão paralela híbrida para a contabilização da frequência de repetição de k-mers.*
+III Escola Regional de Alto Desempenho do Rio de Janeiro, Universidade Federal Rural do Rio de Janeiro, Nova Iguaçu, Maio de 2017.
+
+Melo, M.S.; Souto, R.P.
+*Otimização computacional do esquema da radiação na atmosfera em modelo numérico de previsão de tempo e clima.*
+III Escola Regional de Alto Desempenho do Rio de Janeiro, Universidade Federal Rural do Rio de Janeiro, Nova Iguaçu, Maio de 2017.
+
+Teixeira, T.D.Q.S.; Cabral, F.L.; Osthoff, C.
+*Estratégia de otimização para um método numérico para resolução de problemas de convecção-difusão.*
+III Escola Regional de Alto Desempenho do Rio de Janeiro, Universidade Federal Rural do Rio de Janeiro, Nova Iguaçu, Maio de 2017.
+
 Melo, M.S.; Souto, R.P.
 *Paralelização do esquema de radiação na atmosfera em modelo numérico de previsão de tempo.*
 Escola Regional de Alto Desempenho do Rio de Janeiro, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, Julho de 2016.
