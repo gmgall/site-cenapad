@@ -8,6 +8,11 @@ title: Publicações
 
 **Trabalhos publicados**
 
+Vilasbôas, F.; Osthoff, C.; Ocaña, K.; Trelles, O.; Vasconcelos, A.
+*Análise da execução do algoritmo CFRK*
+III Escola Regional de Alto Desempenho do Rio de Janeiro, Universidade Federal Rural do Rio de Janeiro, Nova Iguaçu, Maio de 2017.
+[PDF](CFRK_ERAD-RJ_2017_fabricio.pdf)
+
 Silva, M. P.; Osthoff, C.; Dias, P. L. da S.; Souto, R. P.
 *Changes in the linear system equations solver to optimize the Ocean–Land–Atmosphere Model*
 4th Conference on Computational Interdisciplinary Sciences - CCIS2016, Novembro de 2016.
