@@ -9,6 +9,7 @@ title: Cursos e Seminários
 **2017**
 --------
 
+* [Scaling to Petascale Institute](/2017/06/11/evento-scaling-to-petascale-institute.html)
 * [Semana sobre Programação Massivamente Paralela](http://www.lncc.br/eventoSeminario/eventoconsultar.php?vMenu=5&idt_evento=1615&vAno=2016)
 
 **2016**
