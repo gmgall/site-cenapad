@@ -3,7 +3,7 @@ author: wordpress
 comments: false
 date: 2012-09-13 13:31:58+00:00
 layout: post
-published: false
+published: true
 slug: equipamentos
 title: Equipamentos
 wordpress_id: 178
