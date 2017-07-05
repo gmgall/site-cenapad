@@ -23,3 +23,21 @@ Os participantes poderão assistir os minicursos em um dos *Host Sites* que irã
 * Software engineering
 
 Mais informações no site: [https://bluewaters.ncsa.illinois.edu/petascale-summer-institute/](https://bluewaters.ncsa.illinois.edu/petascale-summer-institute/)
+
+----------
+
+É possível assistir às gravações do evento pelo YouTube. Seguem links:
+
+* 26/06: [Scaling in a homogeneous environment 1](http://goo.gl/q2nJGG)
+* 27/06: [Scaling in a homogeneous environment 2](http://goo.gl/ZmvnwJ)
+* 28/06: [Scaling in a heterogeneous environment with GPUs](http://goo.gl/r9wR83)
+* 29/06: [Scaling on Manycore Processors (KNL)](http://goo.gl/tGCCnc)
+* 30/06: [Libraries, tools, and methods](http://goo.gl/CnQxKS)
+
+Os exercícios estão disponíveis no seguinte repositório:
+[http://gitlab.com/s2pi/s2pi2017](http://gitlab.com/s2pi/s2pi2017)
+
+Os slides estão disponíveis em
+[http://bit.ly/s2pi17-slides](http://bit.ly/s2pi17-slides)
+
+Material sobre GPUs (26/06): [http://goo.gl/2nTWKA](http://goo.gl/2nTWKA)
