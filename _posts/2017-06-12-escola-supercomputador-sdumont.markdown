@@ -14,8 +14,8 @@ A escola tem como objetivo prover mini-cursos sobre modelos de programação e f
 
 Os slides e exemplos dos cursos estão disponíveis para download. Seguem links:
 
-* MC06: Introdução à Programação Paralela de Aceleradores em OpenCL [[slides](tutoriais/materiais-hpc/semana-sdumont/opencl.pdf)]
-* MC11: Introdução ao OpenAcc [[slides + exemplos](tutoriais/materiais-hpc/semana-sdumont/MP11-OpenACC-2017.tar.gz)]
-* MC12: Introdução a Programação com MPI [[slides](tutoriais/materiais-hpc/semana-sdumont/MPI/MPI.pdf)] [[exemplos](tutoriais/materiais-hpc/semana-sdumont/MPI/cursoMPI (1).tar)]
-* MC13: Introdução a Programação Paralela/OpenMP [[slides](tutoriais/materiais-hpc/semana-sdumont/OpenMP/OpenMP.odp)] [[exemplos](tutoriais/materiais-hpc/semana-sdumont/OpenMP/openmp-semana-sdumont.tar)]
+* MC06: Introdução à Programação Paralela de Aceleradores em OpenCL [[slides](/tutoriais/materiais-hpc/semana-sdumont/opencl.pdf)]
+* MC11: Introdução ao OpenAcc [[slides + exemplos](/tutoriais/materiais-hpc/semana-sdumont/MP11-OpenACC-2017.tar.gz)]
+* MC12: Introdução a Programação com MPI [[slides](/tutoriais/materiais-hpc/semana-sdumont/MPI/MPI.pdf)] [[exemplos](/tutoriais/materiais-hpc/semana-sdumont/MPI/cursoMPI (1).tar)]
+* MC13: Introdução a Programação Paralela/OpenMP [[slides](/tutoriais/materiais-hpc/semana-sdumont/OpenMP/OpenMP.odp)] [[exemplos](/tutoriais/materiais-hpc/semana-sdumont/OpenMP/openmp-semana-sdumont.tar)]
 
