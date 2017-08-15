@@ -16,6 +16,13 @@ title: Materiais sobre Computação de Alto Desempenho
 	* [Glossaries of HPC terms](https://sites.google.com/a/lbl.gov/hpc-training-best-practices/training-resources/glossaries-of-hpc-terms)
 * [Free or low-cost HPC training](http://www.stem-trek.org/free-or-low-cost-hpc-training/)
 
+# Material da [Escola Supercomputador SDUMONT](/2017/06/12/escola-supercomputador-sdumont.html)
+
+* MC06: Introdução à Programação Paralela de Aceleradores em OpenCL [[slides](semana-sdumont/opencl.pdf)]
+* MC11: Introdução ao OpenAcc [[slides + exemplos](semana-sdumont/MP11-OpenACC-2017.tar.gz)]
+* MC12: Introdução a Programação com MPI [[slides](semana-sdumont/MPI/MPI.pdf)] [[exemplos](semana-sdumont/MPI/cursoMPI (1).tar)]
+* MC13: Introdução a Programação Paralela/OpenMP [[slides](semana-sdumont/OpenMP/OpenMP.odp)] [[exemplos](semana-sdumont/OpenMP/openmp-semana-sdumont.tar)]
+
 # Material do evento ["Scaling to Petascale Institute"](/2017/06/11/evento-scaling-to-petascale-institute.html)
 
 * 1º dia: Scaling in a homogeneous environment 1
