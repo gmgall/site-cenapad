@@ -18,6 +18,7 @@ title: Materiais sobre Computação de Alto Desempenho
 
 # Material da [Escola Supercomputador SDUMONT](/2017/06/12/escola-supercomputador-sdumont.html)
 
+* MC03: Introdução E/S Paralela no SDUMONT [[slides](semana-sdumont/ES_paralela/slides.tar.gz)] [[exemplos](semana-sdumont/ES_paralela/mc03.tar)]
 * MC06: Introdução à Programação Paralela de Aceleradores em OpenCL [[slides](semana-sdumont/opencl.pdf)]
 * MC11: Introdução ao OpenAcc [[slides + exemplos](semana-sdumont/MP11-OpenACC-2017.tar.gz)]
 * MC12: Introdução a Programação com MPI [[slides](semana-sdumont/MPI/MPI.pdf)] [[exemplos](semana-sdumont/MPI/cursoMPI (1).tar)]
