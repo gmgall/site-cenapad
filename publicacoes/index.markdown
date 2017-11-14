@@ -8,6 +8,11 @@ title: Publicações
 
 **Trabalhos publicados**
 
+Sánchez-Tapia, A.; de Siqueira, M.; Lima, R.; Barros, F.; Gall, G.; Gadelha, L.; da Silva, L.
+*Model-R: A Framework for Scalable and Reproducible Ecological Niche Modeling*
+In High Performance Computing - Fourth Latin American Conference, CARLA 2017. Communications in Computer and Information Science. Springer, 2017
+[PDF](model-r-framework.pdf)
+
 Vilasbôas, F.; Osthoff, C.; Ocaña, K.; Trelles, O.; Vasconcelos, A.
 *Análise da execução do algoritmo CFRK*
 III Escola Regional de Alto Desempenho do Rio de Janeiro, Universidade Federal Rural do Rio de Janeiro, Nova Iguaçu, Maio de 2017.
