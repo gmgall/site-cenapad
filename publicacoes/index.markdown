@@ -8,6 +8,10 @@ title: Publicações
 
 **Trabalhos publicados**
 
+Vilasbôas, F.; Coelho, M.; Osthoff, C.; Vasconcelos, A.T.
+*Paralelização híbrida e em múltiplos níveis de um algoritmo de contabilização de frequência de K-mer.*
+XVIII Simpósio em Sistemas Computacionais de Alto Desempenho – Campinas – São Paulo – Brasil – Outubro de 2017.
+
 Sánchez-Tapia, A.; de Siqueira, M.; Lima, R.; Barros, F.; Gall, G.; Gadelha, L.; da Silva, L.
 *Model-R: A Framework for Scalable and Reproducible Ecological Niche Modeling*
 In High Performance Computing - Fourth Latin American Conference, CARLA 2017. Communications in Computer and Information Science. Springer, 2017
@@ -201,6 +205,10 @@ Melo, M.S.; Souto, R.P.; Castro, I.F.M.
 Escola Regional de Alto Desempenho do Rio de Janeiro, Laboratório Nacional de Computação Científica, Petrópolis, Agosto de 2015.
 
 **Pôsteres**
+
+Vilasbôas, F.; Coelho, M.; Osthoff, C.; Vasconcelos, A.T.; Trelles, O.
+*K-mer Frequency Counting Algorithm on a Hybrid Cluster Environment.*
+ISC High Performance Conference, Frankfurt , Alemanha, Junho de 2017.
 
 Coelho, M.; Osthoff, C.; Vilasbôas, F.
 *Desenvolvimento de uma versão paralela híbrida para contabilização da frequência de repetição de k-mers.*
