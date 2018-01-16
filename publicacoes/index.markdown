@@ -8,6 +8,10 @@ title: Publicações
 
 **Trabalhos publicados**
 
+Cabral F.L.; Osthoff C.; Costa G.; Brandão D.; Oliveira S.L.G.; Kischinhevsky M.
+*Tuning up TVD HOPMOC method on Intel MIC Xeon Phi Architectures with Intel Parallel Studio Tools*
+Workshop on Applications for Multicore Architecture (WAMCA 2017) - International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2017) - Campinas - São Paulo - Brasil - Outubro de 2017. 
+
 Vilasbôas, F.; Coelho, M.; Osthoff, C.; Vasconcelos, A.T.
 *Paralelização híbrida e em múltiplos níveis de um algoritmo de contabilização de frequência de K-mer.*
 XVIII Simpósio em Sistemas Computacionais de Alto Desempenho – Campinas – São Paulo – Brasil – Outubro de 2017.
