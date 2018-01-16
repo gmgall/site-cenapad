@@ -186,6 +186,13 @@ SCHEPKE, C., MAILLARD, N., Osthoff, C, DIAS, P. L. S., PANETTA, J.
 *Performance Evaluation of an Atmospheric Simulation Model on Multi-Core Environments*
 Latin American Conference on High Performance Computing (CLCAR 2010, 2010, Gramado-RS). Performance Evaluation of an Atmospheric Simulation Model on Multi-Core Environments 2010.
 
+**Relatórios técnicos**
+
+Stanislau, R.L.; Labruzzo, T.; Souto, R.P.; Osthoff, C.; Zerilli, A.
+*Modelagem Multi-dimensional e inversão de dados eletromagnéticos (EM) em uma estação de trabalho multicore utilizando OpenMP ou processamento paralelo heterogêneo*
+Petrópolis, Agosto de 2017.
+[PDF](relatorio_tecnico_rafael.pdf)
+
 **Fórum de Iniciação Científica com resumo expandido**
 
 
