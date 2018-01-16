@@ -15,6 +15,7 @@ Workshop on Applications for Multicore Architecture (WAMCA 2017) - International
 Vilasbôas, F.; Coelho, M.; Osthoff, C.; Vasconcelos, A.T.
 *Paralelização híbrida e em múltiplos níveis de um algoritmo de contabilização de frequência de K-mer.*
 XVIII Simpósio em Sistemas Computacionais de Alto Desempenho – Campinas – São Paulo – Brasil – Outubro de 2017.
+[PDF](WSCAD-kmer.pdf)
 
 Sánchez-Tapia, A.; de Siqueira, M.; Lima, R.; Barros, F.; Gall, G.; Gadelha, L.; da Silva, L.
 *Model-R: A Framework for Scalable and Reproducible Ecological Niche Modeling*
