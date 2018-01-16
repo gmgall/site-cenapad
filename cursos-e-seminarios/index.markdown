@@ -6,6 +6,10 @@ slug: cursos
 title: Cursos e Seminários
 ---
 
+**2018**
+
+* [Escola Supercomputador SDUMONT](http://www.lncc.br/eventoSeminario/eventoconsultar.php?vMenu=4&idt_evento=1759&vAno=)
+
 **2017**
 --------
 
