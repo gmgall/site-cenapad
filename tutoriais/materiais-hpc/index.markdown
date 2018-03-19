@@ -16,6 +16,12 @@ title: Materiais sobre Computação de Alto Desempenho
 	* [Glossaries of HPC terms](https://sites.google.com/a/lbl.gov/hpc-training-best-practices/training-resources/glossaries-of-hpc-terms)
 * [Free or low-cost HPC training](http://www.stem-trek.org/free-or-low-cost-hpc-training/)
 
+# Material da [Escola de Verão Supercomputador SDUMONT 2018](http://www.lncc.br/eventoSeminario/programacao.php?vMenu=5&idt_evento=1758&descAtiv=Programa%E7%E3o)
+
+* MCSD15: R para HPC [repositório com slides + exemplos](https://github.com/quelopes/R_for_HPC)
+* MCSD16: MPI-IO [slides](semana-sdumont/mpi-io-lncc-2018-jean-bez.pdf)
+* MCSD17: Python para HPC [repositório com slides + exemplos](https://github.com/gmgall/python-hpc)
+
 # Material da [Escola Supercomputador SDUMONT](/2017/06/12/escola-supercomputador-sdumont.html)
 
 * MC03: Introdução E/S Paralela no SDUMONT [[slides](semana-sdumont/ES_paralela/slides.tar.gz)] [[exemplos](semana-sdumont/ES_paralela/mc03.tar)]
