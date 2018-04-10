@@ -3,16 +3,10 @@ author: gmgall
 date: 2017-06-12 11:31:00+00:00
 layout: post
 slug: escola-supercomputador-sdumont
-title: Escola Supercomputador SDUMONT
+title: Materiais da Escola Supercomputador SDUMONT disponíveis para download
 ---
 
-Estão abertas as inscrições para a [Escola Supercomputador SDUMONT](http://www.lncc.br/eventoSeminario/eventoconsultar.php?vMenu=&idt_evento=1694), que irá ocorrer entre **31/07/2017 e 04/08/2017**.
-
-A escola tem como objetivo prover mini-cursos sobre modelos de programação e ferramentas de perfilagem para o desenvolvimento de algoritmos paralelos otimizados para pesquisadores de todas as áreas. Serão apresentados conceitos, ferramentas, linguagens e técnicas de programação paralela para que o usuário venha a utilizar os recursos computacionais do [SDumont](http://sdumont.lncc.br) - e recursos de Computação de Alto Desempenho em geral - de forma mais eficiente e, consequentemente, obter menor tempo de execução nas suas aplicações.
-
-----------
-
-Os slides e exemplos dos cursos estão disponíveis para download. Seguem links:
+Os slides e exemplos dos cursos que ocorreram na [Escola Supercomputador SDUMONT](http://www.lncc.br/eventoSeminario/eventoconsultar.php?vMenu=&idt_evento=1694) entre **31/07/2017 e 04/08/2017** estão disponíveis para download. Seguem links:
 
 * MC03: Introdução E/S Paralela no SDUMONT [[slides](/tutoriais/materiais-hpc/semana-sdumont/ES_paralela/slides.tar.gz)] [[exemplos](/tutoriais/materiais-hpc/semana-sdumont/ES_paralela/mc03.tar)]
 * MC06: Introdução à Programação Paralela de Aceleradores em OpenCL [[slides](/tutoriais/materiais-hpc/semana-sdumont/opencl.pdf)]
