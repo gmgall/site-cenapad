@@ -1,7 +1,7 @@
 ---
 author: gmgall
 date: 2013-09-23 14:18:50+00:00
-layout: cursos
+layout: default
 slug: cursos
 title: Cursos e Seminários
 ---
