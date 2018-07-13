@@ -8,6 +8,10 @@ title: Publicações
 
 **Trabalhos publicados**
 
+Brandão, D.; Oliveira, S.L.G.; Kischinhevsky, M.; Osthoff, C.; Cabral, F.L.
+*A total variation diminishing Hopmoc scheme for numerical time integration of evolutionary differential equations.*
+The 18th International Conference on Computational Science and Its Applications (ICCSA 2018), 2018, Melborne.
+
 Cabral F.L.; Osthoff C.; Costa G.; Brandão D.; Oliveira S.L.G.; Kischinhevsky M.
 *Tuning up TVD HOPMOC method on Intel MIC Xeon Phi Architectures with Intel Parallel Studio Tools*
 Workshop on Applications for Multicore Architecture (WAMCA 2017) - International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2017) - Campinas - São Paulo - Brasil - Outubro de 2017. 
