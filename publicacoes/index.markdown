@@ -13,6 +13,11 @@ Souto, R.P.; Welter, M.E.S.; Melo, M.S.; Osthoff, C.; Borseti, R.J.P.; Rodrigues
 *New computational developments on chemistry module of BRAMS numerical weather prediction*
 XXXVIII Congresso Nacional de Matemática Aplicada e Computacional (CNMAC 2018) - Campinas - SP - Brasil - Setembro de 2018.
 
+Cabral, F.L.; Osthoff, C.; Costa, G.P.; Gonzaga de Oliveira, S.L.; Brandão, D.; Kischinhevsky, M.
+*An OpenMP Implementation of the TVD Hopmoc Method Based on a Synchronization Mechanism Using Locks Between Adjacent Threads on Xeon Phi (TM) Accelerators.*
+Lecture Notes in Computer Science. Springer International Publishing, 2018, v. 3, p. 701-707.
+[doi: 10.1007/978-3-319-93713-7_67](https://doi.org/10.1007/978-3-319-93713-7_67)
+
 Brandão, D.; Oliveira, S.L.G.; Kischinhevsky, M.; Osthoff, C.; Cabral, F.L.
 *A total variation diminishing Hopmoc scheme for numerical time integration of evolutionary differential equations.*
 The 18th International Conference on Computational Science and Its Applications (ICCSA 2018), 2018, Melborne.
