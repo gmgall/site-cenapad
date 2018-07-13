@@ -21,6 +21,7 @@ Lecture Notes in Computer Science. Springer International Publishing, 2018, v. 3
 Brandão, D.; Oliveira, S.L.G.; Kischinhevsky, M.; Osthoff, C.; Cabral, F.L.
 *A total variation diminishing Hopmoc scheme for numerical time integration of evolutionary differential equations.*
 The 18th International Conference on Computational Science and Its Applications (ICCSA 2018), 2018, Melborne.
+[doi: 10.1007/978-3-319-95162-1_4](https://doi.org/10.1007/978-3-319-93713-7_67)
 
 Carneiro, A.R.; Bez, J.L.; Boito, F.Z.; Fagundes, B.A.; Osthoff, C.; Navaux, P.O.A.
 *Collective I/O Performance on the Santos Dumont Supercomputer*
