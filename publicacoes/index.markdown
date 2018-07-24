@@ -31,6 +31,11 @@ Carneiro, A.R.; Bez, J.L.; Boito, F.Z.; Fagundes, B.A.; Osthoff, C.; Navaux, P.O
 2018 26th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP), Cambridge, 2018, pp. 45-52.
 [doi: 10.1109/PDP2018.2018.00015](https://www.doi.org/10.1109/PDP2018.2018.00015)
 
+Longuinhos, R.; Ribeiro-Soares, J.
+*Stable holey two-dimensional C₂N structures with tunable electronic structure*
+Phys. Rev. B - Maio de 2018.
+[doi: 10.1103/PhysRevB.97.195119](https://link.aps.org/doi/10.1103/PhysRevB.97.195119)
+
 Cabral F.L.; Osthoff C.; Costa G.; Brandão D.; Oliveira S.L.G.; Kischinhevsky M.
 *Tuning up TVD HOPMOC method on Intel MIC Xeon Phi Architectures with Intel Parallel Studio Tools*
 Workshop on Applications for Multicore Architecture (WAMCA 2017) - International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2017) - Campinas - São Paulo - Brasil - Outubro de 2017. 
