@@ -31,6 +31,10 @@ Carneiro, A.R.; Bez, J.L.; Boito, F.Z.; Fagundes, B.A.; Osthoff, C.; Navaux, P.O
 2018 26th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP), Cambridge, 2018, pp. 45-52.
 [doi: 10.1109/PDP2018.2018.00015](https://www.doi.org/10.1109/PDP2018.2018.00015)
 
+Ocaña, K.A.C.S.; Pedro, J.C.A.G.; Coelho, M.; Galheigo, M.M.; Osthoff, C.
+*Avaliação do uso eficiente de algoritmos paralelos de filogenia em supercomputadores.*
+XXXVIII Congresso da Sociedade Brasileira de Computação - 12º Brazilian e-Science Workshop (BreSci), Natal - RN, Julho de 2018.
+
 Longuinhos, R.; Ribeiro-Soares, J.
 *Stable holey two-dimensional C₂N structures with tunable electronic structure*
 Phys. Rev. B - Maio de 2018.
