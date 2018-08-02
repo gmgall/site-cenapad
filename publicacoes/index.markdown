@@ -11,6 +11,7 @@ title: Publicações
 Stanislau, R.L.; Labruzzo T.; Souto R.P.; Osthoff, C.; Zerilli, A.
 *Otimização computacional do processo de inversão 2.5D de dados eletromagnéticos por uma abordagem via OpenMP.*
 XXXVIII Congresso Nacional de Matemática Aplicada e Computacional (CNMAC 2018) - Campinas - SP - Brasil - Setembro de 2018.
+[PDF](inversao_2.5D_openmp.pdf)
 
 Souto, R.P.; Welter, M.E.S.; Melo, M.S.; Osthoff, C.; Borseti, R.J.P.; Rodrigues, L.F.; Dias, P.L. da S.; Vigilant, F.
 *New computational developments on chemistry module of BRAMS numerical weather prediction*
