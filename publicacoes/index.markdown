@@ -8,6 +8,11 @@ title: Publicações
 
 **Trabalhos publicados**
 
+
+Coelho, M. ; Osthoff, C. ; Ocaña, K.A.C.S.
+*Avaliação do RAxML no Supercomputador Santos Dumont.*
+11th Brazilian Symposium on Bioinformatics - Niterói - RJ. Short Papers Proceedings - Outubro de 2018.
+
 Stanislau, R.L.; Labruzzo T.; Souto R.P.; Osthoff, C.; Zerilli, A.
 *Otimização computacional do processo de inversão 2.5D de dados eletromagnéticos por uma abordagem via OpenMP.*
 XXXVIII Congresso Nacional de Matemática Aplicada e Computacional (CNMAC 2018) - Campinas - SP - Brasil - Setembro de 2018.
