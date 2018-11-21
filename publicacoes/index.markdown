@@ -9,7 +9,7 @@ title: Publicações
 **Trabalhos publicados**
 
 
-Coelho, M. ; Osthoff, C. ; Ocaña, K.A.C.S.
+Coelho, M.; Osthoff, C.; Ocaña, K.A.C.S.
 *Avaliação do RAxML no Supercomputador Santos Dumont.*
 11th Brazilian Symposium on Bioinformatics - Niterói - RJ. Short Papers Proceedings - Outubro de 2018.
 
