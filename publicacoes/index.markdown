@@ -8,10 +8,21 @@ title: Publicações
 
 **Trabalhos publicados**
 
+Teixeira, T.; Cabral, F.L.; Osthoff, C.; Souto, R.P.; Borges, M.R.
+*Análise das oportunidades de Otimização para Ambientes Intel Xeon Phi e Intel Xeon Scalable Processors de um Método Numérico para o Escoamento Bifásico de Fluidos em Meios Porosos.*
+XIX Simpósio em Sistemas Computacionais de Alto Desempenho - São Paulo - SP - Outubro de 2018.
 
 Coelho, M.; Osthoff, C.; Ocaña, K.A.C.S.
 *Avaliação do RAxML no Supercomputador Santos Dumont.*
 11th Brazilian Symposium on Bioinformatics - Niterói - RJ. Short Papers Proceedings - Outubro de 2018.
+
+Cabral, F.L.; Osthoff, C.; Souto, R.P.; Costa, G.P.; Gonzaga de Oliveira, S.L.; Brandão, D.; Kischinhevsky, M.
+*Fine-tuning an OpenMP-based TVD-Hopmoc method using Intel Parallel Studio XE tools on Intel Xeon Architectures.*
+Fifth Latin American Conference, CARLA 2018 - Communications in Computer and Information Science. Springer.
+
+Cabral, F.L.; Osthoff, C.; Costa, G.P.; Gonzaga de Oliveira, S.L.; Brandão, D.; Kischinhevsky, M.
+*An improved OpenMP implementation of the TVD–Hopmoc method based on a cluster of points.*
+3th International Meeting  on High Performance Computing for Computational Science, VECPAR 2018 - Communications in Computer and Information Science. Springer.
 
 Stanislau, R.L.; Labruzzo T.; Souto R.P.; Osthoff, C.; Zerilli, A.
 *Otimização computacional do processo de inversão 2.5D de dados eletromagnéticos por uma abordagem via OpenMP.*
