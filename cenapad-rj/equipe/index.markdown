@@ -67,14 +67,24 @@ wordpress_id: 35
 <td>gmgall@lncc.br</td>
 </tr>
 <tr>
-<td>Carlos Cardoso</td>
-<td>Técnico CENAPAD</td>
-<td>cardoso@lncc.br</td>
-</tr>
-<tr>
 <td>Frederico Cabral</td>
 <td>Mestre CENAPAD</td>
 <td>fcabral@lncc.br</td>
+</tr>
+<tr>
+<td>Stiw Herrera</td>
+<td>Mestre CENAPAD</td>
+<td>stiw@lncc.br</td>
+</tr>
+<tr>
+<td>Maria Eugenia Welter</td>
+<td>Mestre CENAPAD</td>
+<td>mwelter@lncc.br</td>
+</tr>
+<tr>
+<td>Rafael Stanislau</td>
+<td>Técnico CENAPAD</td>
+<td>rafaels@lncc.br</td>
 </tr>
 </tbody></table>
 
@@ -82,10 +92,11 @@ wordpress_id: 35
 
 
 <table>
-<tbody><tr>
-<td>Rafael Stanislau</td>
-<td>Bolsista Schulemberger</td>
-<td>rafaels@lncc.br</td>
+<tbody>
+<tr>
+<td>Micaella Coelho</td>
+<td>Bolsista PCI</td>
+<td>micaella@lncc.br</td>
 </tr>
 <tr>
 <td>Mateus Silva</td>
@@ -93,28 +104,96 @@ wordpress_id: 35
 <td>msmelo@lncc.br</td>
 </tr>
 <tr>
-<td>Fabricio Gomes</td>
-<td>Bolsista de Pós-Graduação</td>
-<td>fabricio@lncc.br</td>
-</tr>
-<tr>
 <td>Gabriel Costa</td>
 <td>Bolsista PIBICT</td>
 <td>gcosta@lncc.br</td>
 </tr>
+<tr>
+<td>Weber Ribeiro</td>
+<td>Bolsista PIBICT</td>
+<td>weber@lncc.br</td>
+</tr>
 </tbody></table>
 
-**Colaboradores**:
+**Colaboradores internos**:
 
 <table>
-<tbody><tr>
+<tbody>
+<tr>
+<td>Alexandre Madureira</td>
+</tr>
+<tr>
+<td>Ana Tereza Vasconcelos</td>
+</tr>
+<tr>
+<td>Antonio Tadeu</td>
+</tr>
+<tr>
 <td>Eduardo Garcia</td>
-<td>Pesquisador/Colaborador</td>
-<td>bidu@lncc.br</td>
+</tr>
+<tr>
+<td>Frederic Valentin</td>
+</tr>
+<tr>
+<td>Kary Ocaña</td>
+</tr>
+<tr>
+<td>Marcio Borges</td>
+</tr>
+<tr>
+<td>Amanda Sabatini Dufek</td>
+</tr>
+<tr>
+<td>Raquel Lopes</td>
+</tr>
+</tbody></table>
+
+**Colaboradores externos**:
+
+<table>
+<tbody>
+<tr>
+<td>Pedro Dias</td>
+<td>UASP/IAG</td>
+</tr>
+<tr>
+<td>Philippe Navaux</td>
+<td>UFRGS</td>
+</tr>
+<tr>
+<td>Jairo Panetta</td>
+<td>ITA</td>
+</tr>
+<tr>
+<td>Diego Brandão</td>
+<td>CEFET/RJ</td>
+</tr>
+<tr>
+<td>Francieli Boito</td>
+<td>INRIA</td>
+</tr>
+<tr>
+<td>Mauricio Kischinhevsky</td>
+<td>UFF</td>
+</tr>
+<tr>
+<td>Sanderson Oliveira</td>
+<td>UFLavras</td>
 </tr>
 <tr>
 <td>Douglas Augusto</td>
-<td>Pesquisador/Colaborador Fiocruz</td>
-<td>douglas@lncc.br</td>
+<td>Fiocruz</td>
+</tr>
+<tr>
+<td>Pedro Pais Lopes</td>
+<td>Exaflop</td>
+</tr>
+<tr>
+<td>Mateus Serpa</td>
+<td>UFRGS</td>
+</tr>
+<tr>
+<td>Jean Luca Bez</td>
+<td>UFRGS</td>
 </tr>
 </tbody></table>
